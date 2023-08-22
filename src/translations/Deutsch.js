@@ -11,11 +11,11 @@
 
 export default {
 	'AdvanceHelp': 'Um dich durch das Spiel zu navigieren, drücke die Leertaste oder klicke',
-	'AllowPlayback': 'Click here to allow audio playback',
+	'AllowPlayback': 'Klicke hier um Audio Playback zu erlauben',
 	'Audio': 'Audio',
 	'AutoPlay': 'Auto',
-	'AutoPlayButton': 'Enable auto play',
-	'AutoPlaySpeed': 'AutoPlay-Geschwindigkeit',
+	'AutoPlayButton': 'Auto Play zulassen ',
+	'AutoPlaySpeed': 'Auto Play-Geschwindigkeit',
 
 	'Back': 'Zurück',
 	'BackButton': 'Zurück',
@@ -26,11 +26,11 @@ export default {
 	'Credits': 'Credits',
 
 	'Delete': 'Löschen',
-	'DialogLogButton': 'Show the dialog log',
+	'DialogLogButton': 'Dialogverlauf anzeigen',
 
 	'FullScreen': 'Vollbildmodus',
 
-	'Gallery': 'Gallery',
+	'Gallery': 'Galerie',
 
 	'Help': 'Hilfe',
 	'Hide': 'Verbergen',
@@ -48,21 +48,21 @@ export default {
 	'LoadingMessage': 'Bitte warte, während die Assets geladen werden',
 	'LoadSlots': 'Gespeicherte Spiele',
 	'LocalStorageWarning': 'Lokaler Speicher ist in diesem Browser nicht verfügbar',
-	'Log': 'Log',
+	'Log': 'Aufzeichnungen',
 
 	'Music': 'Musik-Lautstärke',
 
-	'NewContent': 'There is new content available, reload the page to get the latest version',
+	'NewContent': 'Es sind neue Inhalte verfügbar, lade die Seite erneut für die neue Version.',
 	'NoSavedGames': 'Keine gespeicherten Spiele',
 	'NoAutoSavedGames': 'Keine automatisch gespeicherten Spiele',
-	'NoDialogsAvailable': 'No dialogs available. Dialogs will appear here as they show up',
+	'NoDialogsAvailable': 'Keine Dialoge verfügbar. Dialoge werden hier erscheinen, wenn sie hinzugefügt werden.',
 
 	'OK': 'OK',
-	'OrientationWarning': 'Um das Spiel zu spielen, Bitte drehen sie Ihr Gerät',
+	'OrientationWarning': 'Um das Spiel zu spielen, drehe bitte dein Gerät',
 	'Overwrite': 'Überschreiben',
 
 	'QuickButtons': 'Schnellmenü Schaltflächen',
-	'QuickMenu': 'Quick Menu',
+	'QuickMenu': 'Schnellmenü',
 	'Quit': 'Verlassen',
 	'QuitButton': 'Spiel verlassen',
 
@@ -71,12 +71,12 @@ export default {
 	'Save': 'Speichern',
 	'SaveButton': 'Öffne den Speicherbildschirm',
 	'SaveInSlot': 'In Slot speichern',
-	'SelectYourLanguage': 'Select your language',
+	'SelectYourLanguage': 'Wähle deine Sprache',
 	'Settings': 'Optionen',
 	'SettingsButton': 'Öffne die Optionen',
 	'Show': 'Einblenden',
-	'Skip': 'Skip',
-	'SkipButton': 'Enter skip mode',
+	'Skip': 'Überspringen',
+	'SkipButton': 'Überspringen auslösen',
 	'SlotDeletion': 'Bist Du sicher, dass Du diesen Slot löschen möchtest?',
 	'SlotOverwrite': 'Bist Du sicher, dass Du diesen Slot überschreiben möchtest?',
 	'Sound': 'Sound-Lautstärke',
@@ -85,7 +85,7 @@ export default {
 
 	'TextSpeed': 'Textgeschwindigkeit',
 
-	'Video': 'Video Volume',
+	'Video': 'Video-Lautstärke',
 	'Voice': 'Stimmen-Lautstärke',
 
 	'Windowed': 'Fenstermodus'
